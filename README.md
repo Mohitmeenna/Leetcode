@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Mohitmeenna/Leetcode/tree/master/1140-stone-game-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mohitmeenna/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Mohitmeenna/Leetcode/tree/master/3360-stone-removal-game) |
 ## Enumeration
 |  |
 | ------- |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Mohitmeenna/Leetcode/tree/master/1140-stone-game-ii) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/Mohitmeenna/Leetcode/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
