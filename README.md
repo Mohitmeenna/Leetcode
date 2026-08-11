@@ -10,10 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Mohitmeenna/Leetcode/tree/master/0075-sort-colors) |
 | [0139-word-break](https://github.com/Mohitmeenna/Leetcode/tree/master/0139-word-break) |
 | [1140-stone-game-ii](https://github.com/Mohitmeenna/Leetcode/tree/master/1140-stone-game-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mohitmeenna/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Mohitmeenna/Leetcode/tree/master/0139-word-break) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mohitmeenna/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Mohitmeenna/Leetcode/tree/master/0075-sort-colors) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mohitmeenna/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Quicksort
 |  |
 | ------- |
