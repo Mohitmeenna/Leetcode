@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Mohitmeenna/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Mohitmeenna/Leetcode/tree/master/0075-sort-colors) |
 | [0139-word-break](https://github.com/Mohitmeenna/Leetcode/tree/master/0139-word-break) |
+| [0904-fruit-into-baskets](https://github.com/Mohitmeenna/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1140-stone-game-ii](https://github.com/Mohitmeenna/Leetcode/tree/master/1140-stone-game-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mohitmeenna/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mohitmeenna/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Mohitmeenna/Leetcode/tree/master/0139-word-break) |
+| [0904-fruit-into-baskets](https://github.com/Mohitmeenna/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mohitmeenna/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mohitmeenna/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Mohitmeenna/Leetcode/tree/master/3731-find-missing-elements) |
@@ -109,5 +111,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/Mohitmeenna/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mohitmeenna/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
