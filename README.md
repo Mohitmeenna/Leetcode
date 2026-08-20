@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Mohitmeenna/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Mohitmeenna/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/Mohitmeenna/Leetcode/tree/master/1140-stone-game-ii) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mohitmeenna/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mohitmeenna/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mohitmeenna/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Mohitmeenna/Leetcode/tree/master/3731-find-missing-elements) |
